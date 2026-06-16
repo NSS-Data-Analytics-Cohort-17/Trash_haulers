@@ -23,7 +23,6 @@ Your job is to determine the total amount of damages due to missed pickups. Note
 After determining the total amount of damages, you can look at other questions:
 
 * What other types of complaints are there?
-* Are there any geospatial analysis you can do?  Which visualizations can you create?
 * How do metro crews compare to the contractor's performance?
 * How much does each trash hauler owe?
 * What were to total missed pickup by route?
